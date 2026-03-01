@@ -26,7 +26,7 @@ namespace NoMoreConsole
         {
             "https://iidk.online/",
             "https://raw.githubusercontent.com/iiDk-the-actual/Console",
-            "https://hamburbur.org/files",
+            "https://hamburbur.org/dashboard",
             "https://hamburbur.org/data",
             "https://raw.githubusercontent.com/iiDk-the-actual/Console/refs/heads/master/SafeLua",
             "https://raw.githubusercontent.com/iiDk-the-actual/Console/refs/heads/master/ServerData",
@@ -64,4 +64,5 @@ namespace NoMoreConsole
         }
     }
 }
+
 
